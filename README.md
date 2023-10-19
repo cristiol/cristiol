@@ -17,8 +17,10 @@ Results-driven sales professional transitioning into a quality assurance (QA) ro
 
 ### <b>Here are some personal projects that I worked on:</b>
 
-<div width="100%" align="center"><a href="https://github.com/cristiol/My-API-Project" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiol&repo=My-API-Project&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/cristiol/Test-case-samples" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiol&repo=Test-case-samples&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/cristiol/Selenium_Pytest_e-commerce" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiol&repo=Selenium_Pytest_e-commerce&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<div width="100%" align="center"><a href="https://github.com/cristiol/My-API-Project" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiol&repo=My-API-Project&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/cristiol/Test-case-samples" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiol&repo=Test-case-samples&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/cristiol/Bug-reports" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiol&repo=Bug-reports&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/cristiol/Bug-reports" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=cristiol&repo=Bug-reports&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
