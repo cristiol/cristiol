@@ -2,11 +2,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cristi Olteanu
 ======================================================================================================================================
 
-Results-driven sales professional transitioning into a quality assurance (QA) role, equipped with a strong foundation in sales and a passion for technology. I am a dedicated individual with a strong passion for learning and mastering both manual and automated Quality Assurance (QA) processes. In my pursuit to become proficient in QA, I have focused on utilizing Python, Selenium, and Postman as my primary tools.
+After an 8-year career in sales, I transitioned to a career in tech, something I've desired for a long time because I am passionate about technology and programming.
 
-* ✉️  You can contact me at [https://www.linkedin.com/in/cristi-olteanu-03937718b/](mailto:https://www.linkedin.com/in/cristi-olteanu-03937718b/)
+I started with Python and libraries like BeautifulSoup, Selenium, pytest, and the Django framework, but I'm also expanding my knowledge to other technologies. I've used HTML, CSS, and JavaScript in my personal projects, and currently, I'm undergoing Java training. I've always been competitive, which drives me towards excellence. I aspire to be the best, and I enjoy learning, working hard, and drawing inspiration from high-performance sports.
+
+* ✉️  You can contact me at [here](https://www.linkedin.com/in/cristi-olteanu-03937718b/)
 * 🚀  I'm currently working on [peviitor](http://peviitor.ro/)
-* 🤝  I'm open to collaborating on QA projects
+* 🤝  I'm open to collaborating on cool projects
 
 
 ### Socials
