@@ -15,15 +15,5 @@ Here on Github, I post most of my work, so check it out, and maybe you find it c
 * 🤝  I'm open to collaborating on cool projects
 
 
-## My portofolio 
-
-### <b>Here are some personal projects that I worked on:</b>
-
-<p dir="auto"><a href="https://github.com/peviitor-ro/Scrapers_Cristi_Olteanu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=peviitor-ro&repo=Scrapers_Cristi_Olteanu&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" ></a>     <a href="https://github.com/cristiol/BrowserStack_Selenium"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cristiol&repo=BrowserStack_Selenium&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" ></a>
-<a href="https://github.com/cristiol/Selenium_Pytest_e-commerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cristiol&repo=Selenium_Pytest_e-commerce&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" ></a>    </a></p>
-
-### <b>Manual testing projects</b>
-
-<p dir="auto"><a href="https://github.com/cristiol/My-API-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cristiol&repo=My-API-Project&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" ></a>  <a href="https://github.com/cristiol/Bug-reports"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cristiol&repo=Bug-reports&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" ></a> <a href="https://github.com/cristiol/Test-case-samples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cristiol&repo=Test-case-samples&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" ></a></p>
 
 
