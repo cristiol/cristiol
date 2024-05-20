@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cristi Olteanu
 ======================================================================================================================================
 
-After an 8-year career in sales, I transitioned to a career in tech, something I've desired for a long time because I am passionate about technology and programming.
+After a few years of working in sales, I transitioned to a career in tech, something I've desired for a long time because I am passionate about technology and programming.
 
 I started with Python and libraries like BeautifulSoup, Selenium, pytest, and the Django framework, but I'm also expanding my knowledge to other technologies. I've used HTML, CSS, and JavaScript in my personal projects, and currently, I'm undergoing Java training.
 
