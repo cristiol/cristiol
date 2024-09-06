@@ -12,10 +12,8 @@ Technologies:
  - Django, Django Rest Framework
  - Celery, rabbitmq
  - Docker
- - BeautifullSoup
- - Selenium
- - pytest
- - git and girhub.
+ - BeautifullSoup, Selenium, pytest
+ - git and github.
 
 I've always been competitive, I aspire to be the best, and I enjoy learning, working hard, and drawing inspiration from high-performance sports.
 
